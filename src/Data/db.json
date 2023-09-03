@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "name": "Virenkumar Jagani",
+      "role": "ss",
+      "email": "jaganiviren1250@gmail.com",
+      "phone": "9057820586",
+      "password": "11111",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "role": "testrole",
+      "email": "text@gmail.com",
+      "phone": "123123123",
+      "password": "test",
+      "id": 8
+    }
+  ]
+}
